@@ -3911,6 +3911,25 @@
     "official": false
   },
   {
+    "name": "Multi Upload Tool",
+    "url": "https://docs.multi-upload-tool.com/mcp",
+    "description": "Schedule and publish videos and photos to TikTok, YouTube Shorts, Instagram, Facebook, LinkedIn, Pinterest, Bluesky, Threads and X; validate, reschedule, cancel and retry posts, and read post status and analytics.",
+    "category": "communication-and-productivity",
+    "language": "TypeScript",
+    "provider": "Multi Upload Tool",
+    "tags": [
+      "social-media",
+      "publishing",
+      "video",
+      "remote",
+      "oauth"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://api.multi-upload-tool.com/mcp"
+    }
+  },
+  {
     "name": "Zovo Invoice MCP",
     "url": "https://github.com/theluckystrike/mcp-servers/tree/main/servers/invoice",
     "description": "Local PDF invoicing with sequential numbering, VAT per rate, and client management; also sold as a hosted streamable endpoint.",

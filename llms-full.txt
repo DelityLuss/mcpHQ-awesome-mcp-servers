@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 294 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 295 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -1450,6 +1450,18 @@ Interact with Microsoft Teams channels, messages, and meetings.
 - Official: no
 - Tags: teams, chat, microsoft
 - Category: Communication and Productivity
+
+### Multi Upload Tool
+
+Schedule and publish videos and photos to TikTok, YouTube Shorts, Instagram, Facebook, LinkedIn, Pinterest, Bluesky, Threads and X; validate, reschedule, cancel and retry posts, and read post status and analytics.
+
+- URL: https://docs.multi-upload-tool.com/mcp
+- Language: TypeScript
+- Provider: Multi Upload Tool
+- Official: yes
+- Tags: social-media, publishing, video, remote, oauth
+- Category: Communication and Productivity
+- Streamable HTTP endpoint: https://api.multi-upload-tool.com/mcp
 
 ### OrkasVideoStudio
 
